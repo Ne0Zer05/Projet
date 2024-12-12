@@ -12,7 +12,7 @@ document.getElementById('loginForm').addEventListener('submit', function(e) {
     }
 
     // Envoie des données au serveur via fetch (requête POST)
-    fetch('https://node-server-uara.onrender.com', {  // Remplace cette URL par celle de ton serveur Render
+    fetch('https://node-server-w6jb.onrender.com', {  // Remplace cette URL par celle de ton serveur Render
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
