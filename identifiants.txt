@@ -8,3 +8,7 @@ Email: TEST, Password: BILALTEST
 Email: TEST, Password: BILALTEST
 Email: TEST, Password: BILALTEST
 Email: QWERTYU, Password: QWERTY
+Email: dkhennouchi6@gmail.com, Password: dkhennouchi6@gmail.com
+Email: dkhennouchi6@gmail.com, Password: dkhennouchi6@gmail.com
+Email: dkhennouchi6@gmail.com, Password: dkhennouchi6@gmail.com
+Email: test1234, Password: test1234
